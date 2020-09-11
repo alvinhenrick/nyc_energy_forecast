@@ -1,0 +1,6 @@
+numpy
+pandas
+tsfel
+scikit-learn
+optuna
+transparency
